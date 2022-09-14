@@ -1,4 +1,8 @@
 new line of code
+<<<<<<< HEAD
 world
 conflect
 my new conflect
+=======
+my world
+>>>>>>> 46d06854ddaeef771a7bb141f8b2a146d6c6219e
